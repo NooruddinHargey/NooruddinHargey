@@ -16,6 +16,7 @@ Technical articles and research I write for Puzzl Media:
 
 ## Toolkit
 SEO & Search Console · GA4 · A/B testing & CRO · SQL · Python · Tableau · Power BI · Excel · Git-based publishing
+**Certified:** Google Analytics (Skillshop, 2026) · Power BI Essential Training · Data Forecasting with Claude (LinkedIn Learning)
 
 ## Currently
 Building Puzzl's growth function and working toward cloud-based data architecture (AWS/Azure).
