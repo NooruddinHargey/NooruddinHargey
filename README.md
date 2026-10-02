@@ -1,6 +1,6 @@
 # Nooruddin Hargey
 
-Technical Growth Specialist at [Puzzl Media](https://puzzl.co.za), a software development studio in Cape Town. I run technical SEO, CRO, content strategy and AI search visibility, and build AI-assisted workflows that automate research extraction and content transformation. Behind that are 17 years in iGaming and fintech: transaction monitoring, operational analytics and performance reporting.
+Technical Growth Specialist at [Puzzl Media](https://puzzl.co.za), a software development studio in Cape Town. I run technical SEO, CRO, content strategy and AI search visibility, and build AI-assisted workflows that automate research extraction and content transformation. Behind that are 17 years in iGaming and Fintech: transaction monitoring, operational analytics and performance reporting.
 
 ## What I work on
 
