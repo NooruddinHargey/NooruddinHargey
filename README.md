@@ -40,4 +40,4 @@ Building Puzzl's growth function and working toward cloud-based data architectur
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/nooruddin-hargey) · [Puzzl
+[LinkedIn](https://www.linkedin.com/in/nooruddin-hargey) · [Puzzl Media](https://puzzl.co.za/)
