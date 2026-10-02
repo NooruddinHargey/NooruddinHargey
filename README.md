@@ -23,6 +23,7 @@ Technical articles and research I write for Puzzl Media:
 - [AI-Augmented Software Development: What Changes When AI Starts Writing the Code?](https://puzzl.co.za/projects/articles/ai-augmented-software-development-article)
 - [Build vs Buy in 2026: When Should a Business Build Its Own Software?](https://puzzl.co.za/projects/articles/build-vs-buy-article)
 - [Technical Debt: Why Quick Fixes Become Expensive Software Problems](https://puzzl.co.za/projects/articles/technical-debt-quick-fixes-article)
+- [How to Budget for Custom Software: What to Know Before Getting a Quote](https://puzzl.co.za/projects/articles/budgeting-for-custom-software-article)
 - [Why Apple's Most Hated Features Usually Make Sense Later](https://puzzl.co.za/projects/articles/apple-feature-dependency-article)
 - [Flutter vs React Native: Which Should Startups Choose?](https://puzzl.co.za/projects/research/flutter-vs-react-native)
 
