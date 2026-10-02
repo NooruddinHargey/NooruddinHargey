@@ -4,11 +4,12 @@ Technical Growth Specialist at [Puzzl Media](https://puzzl.co.za), a software de
 
 ## What I work on
 
-- **Technical SEO:** grew the search queries Puzzl appears for in Google from 3 to 148 in the first two months
+- **Technical SEO & search intent:** grew the search queries Puzzl appears for in Google from 3 to 148 in the first two months, with each article planned around what the searcher is trying to resolve
 - **AI search visibility:** structured tests of how ChatGPT, Gemini, Perplexity, Claude and Google AI Overviews surface software studios, with repeatable 3- and 6-month re-test baselines
 - **CRO & testing:** A/B tests across the website and landing pages, plus debugging the tracking and tagging issues they surface
 - **Publishing pipeline:** a Git-based workflow (staged reviews, structured frontmatter) that turns engineering work into weekly articles and case studies
 - **Automation:** AI-assisted workflows that turn engineering work into structured drafts and adapt articles for LinkedIn, Medium and X
+- **Paid media:** limited-run placements to extend organic reach
 
 ## Portfolio
 
@@ -27,7 +28,7 @@ Technical articles and research I write for Puzzl Media:
 
 ## Toolkit
 
-**Growth & SEO:** Search Console · GA4 · A/B testing & CRO · AI search audits · UTM tracking · Git-based publishing · AI-assisted workflows & automation
+**Growth & SEO:** Keyword research & search intent mapping · Search Console · GA4 · A/B testing & CRO · AI search audits · Paid media (Meta & Display) · UTM tracking · Git-based publishing · AI-assisted workflows & automation
 
 **Data & analytics:** SQL (SQL Server, BigQuery) · Python · Power BI · Tableau · Excel
 
@@ -39,4 +40,4 @@ Building Puzzl's growth function and working toward cloud-based data architectur
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/nooruddin-hargey) · [Puzzl Media](https://puzzl.co.za)
+[LinkedIn](https://www.linkedin.com/in/nooruddin-hargey) · [Puzzl
