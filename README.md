@@ -31,4 +31,18 @@ Technical articles and research I write for Puzzl Media, each peer-reviewed by a
 
 ## Toolkit
 
-**Growth & SEO:** Keyword research & search intent mapping · Search Console · GA4 · A/B testing &
+**Growth & SEO:** Keyword research & search intent mapping · Search Console · GA4 · A/B testing & CRO · AI search audits · Paid media (Meta & Display) · UTM tracking · Git-based publishing · Buffer · AI-assisted workflows & automation
+
+**Data & analytics:** SQL (SQL Server, BigQuery) · Python · Power BI · Tableau · Grafana · Excel (Advanced)
+
+**Methods:** Opportunity validation · Unit economics & break-even · Company & market research · Segmentation · Funnel & churn analysis · Dashboard development
+
+**Certified:** Google Analytics (Skillshop, 2026) · Power BI Essential Training (LinkedIn Learning, 2026) · Data Forecasting with Claude (LinkedIn Learning, 2026)
+
+## Currently
+
+Building Puzzl's growth function and working toward cloud-based data architecture (AWS/Azure).
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/nooruddin-hargey) · [Puzzl Media](https://puzzl.co.za)
