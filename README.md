@@ -1,13 +1,15 @@
 # Nooruddin Hargey
 
-Technical Growth Specialist at [Puzzl Media](https://puzzl.co.za), a software development studio in Cape Town. I run technical SEO, CRO, content strategy and AI search visibility, and build AI-assisted workflows that automate research extraction and content transformation. Behind that are 17 years in iGaming and Fintech: transaction monitoring, operational analytics and performance reporting.
+Technical Growth Specialist at [Puzzl Media](https://puzzl.co.za), a software development studio in Cape Town. I own technical SEO, CRO, content strategy and AI search visibility, run the technical publishing pipeline end to end, and build AI-assisted workflows that automate research extraction and content transformation. Behind that are 17 years in iGaming and Fintech: transaction monitoring, operational analytics and performance reporting, including a 10–15% reduction in payment processing issues and a 15–20% improvement in client payment acceptance rates.
 
 ## What I work on
 
-- **Technical SEO & search intent:** grew the search queries Puzzl appears for in Google from 3 to 148 in the first two months, with each article planned around what the searcher is trying to resolve
-- **AI search visibility:** structured tests of how ChatGPT, Gemini, Perplexity, Claude and Google AI Overviews surface software studios, with repeatable 3- and 6-month re-test baselines
-- **CRO & testing:** A/B tests across the website and landing pages, plus debugging the tracking and tagging issues they surface
+- **Technical SEO & search intent:** every article planned around what a decision-maker is trying to resolve; diagnosed a core-update impression drop as lost overseas reach rather than lost traffic, and root-caused two articles Google had never indexed
+- **Distribution:** a company-plus-personal LinkedIn model, UTM-tagged X and curated Medium; engaged website visits nearly tripled in the first ten weeks, with LinkedIn up from 3 to 44
+- **AI search visibility:** structured tests of how ChatGPT, Gemini, Perplexity, Claude and Google AI Overviews surface software studios (26 logged runs), with repeatable 3- and 6-month re-test baselines
+- **CRO & measurement:** diagnosed broken enquiry tracking and set out the fix, spam filtering and enquiry logging that conversion work depends on
 - **Publishing pipeline:** a Git-based workflow (staged reviews, structured frontmatter) that turns engineering work into weekly articles and case studies
+- **Market & opportunity research:** a target-company pipeline tiered on dated, sourced triggers, and new markets and service ideas tested before any spend, each ending in a clear go or no-go call
 - **Automation:** AI-assisted workflows that turn engineering work into structured drafts and adapt articles for LinkedIn, Medium and X
 - **Paid media:** limited-run placements to extend organic reach
 
@@ -18,7 +20,7 @@ Technical Growth Specialist at [Puzzl Media](https://puzzl.co.za), a software de
 
 ## Writing
 
-Technical articles and research I write for Puzzl Media:
+Technical articles and research I write for Puzzl Media, each peer-reviewed by an engineer or the founder:
 
 - [AI-Augmented Software Development: What Changes When AI Starts Writing the Code?](https://puzzl.co.za/projects/articles/ai-augmented-software-development-article)
 - [Build vs Buy in 2026: When Should a Business Build Its Own Software?](https://puzzl.co.za/projects/articles/build-vs-buy-article)
@@ -29,16 +31,4 @@ Technical articles and research I write for Puzzl Media:
 
 ## Toolkit
 
-**Growth & SEO:** Keyword research & search intent mapping · Search Console · GA4 · A/B testing & CRO · AI search audits · Paid media (Meta & Display) · UTM tracking · Git-based publishing · AI-assisted workflows & automation
-
-**Data & analytics:** SQL (SQL Server, BigQuery) · Python · Power BI · Tableau · Excel
-
-**Certified:** Google Analytics (Skillshop, 2026) · Power BI Essential Training (LinkedIn Learning, 2026) · Data Forecasting with Claude (LinkedIn Learning, 2026)
-
-## Currently
-
-Building Puzzl's growth function and working toward cloud-based data architecture (AWS/Azure).
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/nooruddin-hargey) · [Puzzl Media](https://puzzl.co.za/)
+**Growth & SEO:** Keyword research & search intent mapping · Search Console · GA4 · A/B testing &
