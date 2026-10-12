@@ -7,9 +7,9 @@ Technical Growth Specialist at [Puzzl Media](https://puzzl.co.za), a software de
 - **Technical SEO & search intent:** every article planned around what a decision-maker is trying to resolve; diagnosed a core-update impression drop as lost overseas reach rather than lost traffic, and root-caused two articles Google had never indexed
 - **Distribution:** a company-plus-personal LinkedIn model, UTM-tagged X and curated Medium; engaged website visits nearly tripled in the first ten weeks, with LinkedIn up from 3 to 44
 - **AI search visibility:** structured tests of how ChatGPT, Gemini, Perplexity, Claude and Google AI Overviews surface software studios (26 logged runs), with repeatable 3- and 6-month re-test baselines
-- **CRO & measurement:** diagnosed broken enquiry tracking and set out the fix, spam filtering and enquiry logging that conversion work depends on
+- **CRO & measurement:** enquiry tracking, spam filtering and enquiry logging, the measurement conversion work depends on
 - **Publishing pipeline:** a Git-based workflow (staged reviews, structured frontmatter) that turns engineering work into weekly articles and case studies
-- **Market & opportunity research:** a target-company pipeline tiered on dated, sourced triggers, and new markets and service ideas tested before any spend, each ending in a clear go or no-go call
+- **Market & opportunity research:** a target-company pipeline tiered on dated, sourced triggers, and growth options tested before any spend, each ending in a clear go or no-go call
 - **Automation:** AI-assisted workflows that turn engineering work into structured drafts and adapt articles for LinkedIn, Medium and X
 - **Paid media:** limited-run placements to extend organic reach
 
