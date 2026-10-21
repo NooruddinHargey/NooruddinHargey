@@ -1,6 +1,6 @@
 # Nooruddin Hargey
 
-Technical Growth Specialist at [Puzzl Media](https://puzzl.co.za), a software development studio in Cape Town. I own technical SEO, CRO, content strategy and AI search visibility, write Puzzl's articles and run its publishing pipeline end to end, and build AI-assisted workflows that automate research extraction and content transformation. Behind that are 17 years in iGaming and Fintech: transaction monitoring, operational analytics and performance reporting, including a 10–15% reduction in payment processing issues and a 15–20% improvement in client payment acceptance rates.
+Technical Growth Specialist at [Puzzl Media](https://puzzl.co.za), a software development studio in Cape Town. I own technical SEO, CRO, content strategy and AI search visibility, write Puzzl's articles and run its publishing pipeline end to end, and build AI-assisted workflows that automate research extraction and content transformation. Behind that are 17 years in iGaming and Fintech: transaction monitoring, operational analytics and performance reporting, including a 10 to 15% reduction in payment processing issues and a 15 to 20% improvement in client payment acceptance rates.
 
 ## What I work on
 
@@ -15,13 +15,14 @@ Technical Growth Specialist at [Puzzl Media](https://puzzl.co.za), a software de
 
 ## Portfolio
 
-- [Subscription Growth & Churn Analysis (2020–2026)](https://github.com/NooruddinHargey/Subscription-Growth-Churn-Analysis-2020-2026): end-to-end lifecycle and funnel analysis of growth, churn and retention trends. *Tableau, Excel, SQL*
+- [Subscription Growth & Churn Analysis (2020 to 2026)](https://github.com/NooruddinHargey/Subscription-Growth-Churn-Analysis-2020-2026): end-to-end lifecycle and funnel analysis of growth, churn and retention trends. *Tableau, Excel, SQL*
 - [Vehicle Sales Dashboard 2025](https://github.com/NooruddinHargey/Vehicle_Sales_Dashboard_2025): interactive dashboard on South African vehicle sales. *Tableau*
 
 ## Writing
 
 Technical articles and research I write for Puzzl Media, each peer-reviewed by an engineer or the founder:
 
+- [The Real Cost of Software Development in 2026: Where the Budget Actually Goes](https://puzzl.co.za/projects/articles/real-cost-of-software-development-2026)
 - [AI-Augmented Software Development: What Changes When AI Starts Writing the Code?](https://puzzl.co.za/projects/articles/ai-augmented-software-development-article)
 - [Build vs Buy in 2026: When Should a Business Build Its Own Software?](https://puzzl.co.za/projects/articles/build-vs-buy-article)
 - [Technical Debt: Why Quick Fixes Become Expensive Software Problems](https://puzzl.co.za/projects/articles/technical-debt-quick-fixes-article)
