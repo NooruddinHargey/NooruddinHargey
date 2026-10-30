@@ -1,17 +1,17 @@
 # Nooruddin Hargey
 
-Technical Growth Specialist at [Puzzl Media](https://puzzl.co.za), a software development studio in Cape Town. I own technical SEO, CRO, content strategy and AI search visibility, write Puzzl's articles and run its publishing pipeline end to end, and build AI-assisted workflows that automate research extraction and content transformation. Behind that are 17 years in iGaming and Fintech: transaction monitoring, operational analytics and performance reporting, including a 10 to 15% reduction in payment processing issues and a 15 to 20% improvement in client payment acceptance rates.
+Technical Growth Specialist at [Puzzl Media](https://puzzl.co.za), a software development studio in Cape Town. I own technical SEO, CRO, content strategy, AI search visibility and paid search and social, write Puzzl's articles and run its publishing pipeline end to end, and build AI-assisted workflows that automate research extraction and content transformation. Behind that are 17 years in iGaming and Fintech: transaction monitoring, operational analytics and performance reporting, including a 10 to 15% reduction in payment processing issues and a 15 to 20% improvement in client payment acceptance rates.
 
 ## What I work on
 
-- **Technical SEO & search intent:** every article planned around what a decision-maker is trying to resolve; diagnosed a core-update impression drop as lost overseas reach rather than lost traffic, and root-caused two articles Google had never indexed
-- **Distribution:** a company-plus-personal LinkedIn model, UTM-tagged X and curated Medium; engaged website visits nearly tripled in the first ten weeks, with LinkedIn up from 3 to 44. I also manage the company page's community, answering technical comments with the authoring engineer
+- **Technical SEO & search intent:** every article planned around what a decision-maker is trying to resolve; diagnosed a core-update impression drop as lost overseas reach rather than lost traffic, root-caused two articles Google had never indexed, and audited internal linking across all 62 site pages
+- **Distribution:** a company-plus-personal LinkedIn model, UTM-tagged X, curated Medium and developer newsletters; engaged website visits nearly tripled in the first ten weeks, and an engineer's case study featured in Ruby Weekly drew readers averaging 148 seconds on the page. I also manage the company page's community, answering technical comments with the authoring engineer
 - **AI search visibility:** structured tests of how ChatGPT, Gemini, Perplexity, Claude and Google AI Overviews surface software studios (26 logged runs), with repeatable 3- and 6-month re-test baselines
-- **CRO & measurement:** enquiry tracking, spam filtering and enquiry logging, the measurement conversion work depends on
+- **CRO & measurement:** GA4 lead events tested in Google Tag Manager across every enquiry form and imported as the single Google Ads conversion, plus spam filtering and enquiry logging
+- **Paid media:** launched Puzzl's first LinkedIn Ads campaign with weekly reporting, and built its first Google Ads Search campaigns: phrase and exact match, shared negatives and a matched-credit budget plan
 - **Publishing pipeline:** every piece peer-reviewed by an engineer before release, with the engineers' own case studies going through the same Git-based workflow (staged reviews, structured frontmatter)
 - **Market & opportunity research:** a target-company pipeline tiered on dated, sourced triggers, and growth options tested before any spend, each ending in a clear go or no-go call
 - **Automation:** AI-assisted workflows that turn engineering work into structured drafts and adapt articles for LinkedIn, Medium and X
-- **Paid media:** limited-run placements to extend organic reach
 
 ## Portfolio
 
@@ -32,7 +32,7 @@ Technical articles and research I write for Puzzl Media, each peer-reviewed by a
 
 ## Toolkit
 
-**Growth & SEO:** Keyword research & search intent mapping · Search Console · GA4 · A/B testing & CRO · AI search audits · Paid media (Meta & Display) · UTM tracking · Git-based publishing · Buffer · AI-assisted workflows & automation
+**Growth & SEO:** Keyword research & search intent mapping · Search Console · GA4 · Google Tag Manager · A/B testing & CRO · AI search audits · Paid media (Google Ads Search, LinkedIn Ads, Meta) · UTM tracking · Technical writing & Git-based publishing · Buffer · AI-assisted workflows & automation
 
 **Data & analytics:** SQL (SQL Server, BigQuery) · Python · Power BI · Tableau · Grafana · Excel (Advanced)
 
