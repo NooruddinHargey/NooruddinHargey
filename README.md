@@ -22,6 +22,7 @@ Technical Growth Specialist at [Puzzl Media](https://puzzl.co.za), a software de
 
 Technical articles and research I write for Puzzl Media, each peer-reviewed by an engineer or the founder:
 
+- [Optimising Your Website for AI Search in 2026: What Actually Matters](https://puzzl.co.za/projects/articles/optimising-your-website-for-ai-search-2026)
 - [The Real Cost of Software Development in 2026: Where the Budget Actually Goes](https://puzzl.co.za/projects/articles/real-cost-of-software-development-2026)
 - [AI-Augmented Software Development: What Changes When AI Starts Writing the Code?](https://puzzl.co.za/projects/articles/ai-augmented-software-development-article)
 - [Build vs Buy in 2026: When Should a Business Build Its Own Software?](https://puzzl.co.za/projects/articles/build-vs-buy-article)
