@@ -16,8 +16,8 @@ Technical Growth Specialist at [Puzzl Media](https://puzzl.co.za), a software de
 ## Portfolio
 
 - [GA4 Funnel Audit](https://github.com/NooruddinHargey/GA4-Ecommerce-Funnel-Audit): audit of a GA4 ecommerce funnel that found three tracking breaks, rebuilt the funnel from trusted windows and sized the first test. *BigQuery, SQL, Python*
-- [Subscription Growth & Churn Analysis (2020 to 2026)](https://github.com/NooruddinHargey/Subscription-Growth-Churn-Analysis-2020-2026): end-to-end lifecycle and funnel analysis of growth, churn and retention trends. *Tableau, Excel, SQL*
-- [Vehicle Sales Dashboard 2025](https://github.com/NooruddinHargey/Vehicle_Sales_Dashboard_2025): interactive dashboard on South African vehicle sales. *Tableau*
+- [Subscription Growth & Churn Analysis (2020 to 2026)](https://github.com/NooruddinHargey/Subscription-Growth-Churn-Analysis-2020-2026): growth, churn and retention for 20 subscription providers across four sectors. *Tableau, Excel, SQL*
+- [Vehicle Sales Dashboard 2025](https://github.com/NooruddinHargey/Vehicle-Sales-Dashboard-2025): interactive dashboard on South African vehicle sales. *Tableau, SQL*
 
 ## Writing
 
