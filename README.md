@@ -7,11 +7,12 @@ Technical Growth Specialist at [Puzzl Media](https://puzzl.co.za), a software de
 - **Technical SEO & search intent:** every article planned around what a decision-maker is trying to resolve; diagnosed a core-update impression drop as lost overseas reach rather than lost traffic, root-caused two articles Google had never indexed, and audited internal linking across all 62 site pages
 - **Distribution & channel strategy:** long-term strategy across LinkedIn, X, Instagram, TikTok and new channels as they launch, built on a company-plus-personal LinkedIn model, UTM-tagged X, curated Medium and developer newsletters; engaged website visits nearly tripled in the first ten weeks, and an engineer's case study featured in Ruby Weekly drew readers averaging 148 seconds on the page. I also manage the company page's community, answering technical comments with the authoring engineer
 - **AI search visibility:** structured tests of how ChatGPT, Gemini, Perplexity, Claude and Google AI Overviews surface software studios (26 logged runs), with repeatable 3- and 6-month re-test baselines
-- **CRO & measurement:** GA4 lead events tested in Google Tag Manager across every enquiry form and imported as the single Google Ads conversion, plus spam filtering and enquiry logging
-- **Paid media:** run Puzzl's campaigns across LinkedIn Ads and Google Ads Search, with weekly reporting. The first LinkedIn campaign drew 90 clicks against LinkedIn's forecast of 35 to 71, at a cost per click 21% below the forecast range, unlocking a matched ad credit; Google Ads Search, built on phrase and exact match with shared negatives, brought a tracked lead in launch week
+- **CRO & measurement:** GA4 lead events tested in Google Tag Manager across every enquiry form and imported as the single Google Ads conversion, with keyword-level lead attribution, spam filtering and enquiry logging
+- **Paid media:** run Puzzl's campaigns across LinkedIn Ads and Google Ads Search, with weekly reporting. The first LinkedIn campaign drew 90 clicks against LinkedIn's forecast of 35 to 71, at a cost per click 21% below the forecast range, unlocking a matched ad credit; the second tested three headlines, and the winner's click rate was 1.8x the weakest. Google Ads Search runs on phrase and exact match with shared negatives; I cut cost per click 22% by pausing a campaign that reached AI tool users rather than buyers and moving its budget to the searches that bring leads
+- **Lead handling:** inbound leads taken from first reply to discovery call, logged by source and search term, with qualified opportunities handed to the founder
 - **Publishing pipeline:** every piece peer-reviewed by an engineer before release, with the engineers' own case studies going through the same Git-based workflow (staged reviews, structured frontmatter)
-- **Market & opportunity research:** a target-company pipeline tiered on dated, sourced triggers, and new revenue streams, from services and products to new markets, tested before any spend, each ending in a clear go or no-go call
-- **Automation:** AI-assisted workflows that turn engineering work into structured drafts and adapt articles for LinkedIn, Medium and X
+- **Market & opportunity research:** a target-company pipeline tiered on dated, sourced triggers, and new revenue streams, from services and products to new markets, tested before any spend, each ending in a clear go or no-go call, plus first-party demand evidence from search and enquiry data for new product research
+- **Automation:** AI-assisted workflows that turn engineering work into structured drafts and adapt articles for LinkedIn, Medium, X, Instagram and TikTok
 
 ## Portfolio
 
@@ -39,7 +40,7 @@ Technical articles and research I write for Puzzl Media, each peer-reviewed by a
 
 **Data & analytics:** SQL (SQL Server, BigQuery) · Python · Power BI · Tableau · Grafana · Excel (Advanced)
 
-**Methods:** Opportunity validation · Unit economics & break-even · Company & market research · Segmentation · Funnel & churn analysis · Dashboard development
+**Methods:** Opportunity validation · Unit economics & break-even · Company & market research · Segmentation · Funnel & churn analysis · Lead qualification · Dashboard development
 
 **Certified:** Google Analytics (Skillshop, 2026) · Power BI Essential Training (LinkedIn Learning, 2026) · Data Forecasting with Claude (LinkedIn Learning, 2026)
 
