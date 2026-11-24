@@ -46,7 +46,7 @@ Technical articles and research I write for Puzzl Media, each peer-reviewed by a
 
 ## Currently
 
-Running Puzzl's paid search and social campaigns, building its growth function and working toward cloud-based data architecture (AWS/Azure).
+Running Puzzl's paid search and social campaigns, building its growth function and deepening AI search optimisation (GEO/AEO): structuring content so AI assistants retrieve and cite it, and measuring what actually drives visibility and enquiries as AI becomes how buyers find software.
 
 ## Connect
 
